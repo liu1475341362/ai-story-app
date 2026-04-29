@@ -1,3 +1,5 @@
+apk仓库已经迁移到 https://huggingface.co/spaces/liubbninng/ai-story-app/tree/main
+
 # Story - AI故事对话应用
 
 > 一个基于MVVM架构的Android AI聊天应用，支持多终端体验、气泡通知、语音通话和系统级集成。
