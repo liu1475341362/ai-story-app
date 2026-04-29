@@ -298,7 +298,7 @@ class ChatSessionManagerImpl : IChatSessionManager {
 - **模块类型**: Application Module (`:app`)
 - **架构模式**: MVVM + Repository + LiveData
 - **主要语言**: Kotlin (JVM Target 17)
-- **最后更新**: 2024-12-24
+- **最后更新**: 2025-12-24
 
 ---
 
