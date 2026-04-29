@@ -1,4 +1,4 @@
-apk仓库已经迁移到 https://huggingface.co/spaces/liubbninng/ai-story-app/tree/main
+2026年4月29日更新：本仓库已经废弃，apk仓库已经迁移到 https://huggingface.co/spaces/liubbninng/ai-story-app/tree/main
 
 # Story - AI故事对话应用
 
